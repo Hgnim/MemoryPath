@@ -20,3 +20,8 @@
 演示:
 
   ![image](https://github.com/Hgnim/MemoryPath/blob/main/img/MemoryPath.gif)
+
+<br/>
+介绍视频(来源:bilibili)：
+
+[![](https://i2.hdslb.com/bfs/archive/5458d60a9d1965fbbd0eeaebf4248dc421aed5c9.jpg@320w_200h)](https://www.bilibili.com/video/BV1RMhoeXEGg/)
