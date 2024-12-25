@@ -1,0 +1,26 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <ApplicationIcon>MemoryPath_logo.ico</ApplicationIcon>
+
+	  <Title>记忆路径</Title>
+	  <Company>Hgnim</Company>
+	  <Product>MemoryPath</Product>
+	  <Description>记忆路径</Description>
+	  <Copyright>Copyright (C) 2024 Hgnim, All rights reserved.</Copyright>
+	  <AssemblyName>记忆路径</AssemblyName>
+	  <AssemblyVersion>1.0.0.0708</AssemblyVersion>
+	  <FileVersion>1.0.0.0708</FileVersion>
+	  <Version>1.0.0.20240708</Version>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Content Include="MemoryPath_logo.ico" />
+  </ItemGroup>
+
+</Project>
